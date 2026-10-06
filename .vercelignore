@@ -1,0 +1,7 @@
+.git
+.openai
+node-checksums.txt
+runtime-node
+runtime-git
+verify.cjs
+README.md
